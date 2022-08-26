@@ -1,0 +1,1 @@
+select order_id,order_date,user_id,order_price,order_discount,voucher_id,order_total from tb_orders
